@@ -1,0 +1,27 @@
+{
+  "name": "blockapps-api",
+  "version": "1.0.0",
+  "description": "Thin wrapper for BlockApps Bloc/Starto api rest calls.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blockapps/blockapps-api.git"
+  },
+  "keywords": [
+    "BlockApps",
+    "Bloc",
+    "Strato"
+  ],
+  "dependencies": {
+    "axios": "^0.14.0",
+  },
+  "author": "lior@blockapps.net",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blockapps/blockapps-api/issues"
+  },
+  "homepage": "https://github.com/blockapps/blockapps-api#readme"
+}

@@ -16,7 +16,7 @@
     "Strato"
   ],
   "dependencies": {
-    "axios": "^0.14.0",
+    "axios": "^0.14.0"
   },
   "author": "lior@blockapps.net",
   "license": "ISC",

@@ -90,6 +90,10 @@ Get all the users
 ```          
 api.bloc.users();
 ```
+Get a specific user's addresses
+```          
+api.bloc.getUserAddresses(userName);
+```
 Create a user, funding it from the faucet
 ```          
 api.bloc.createUser({
